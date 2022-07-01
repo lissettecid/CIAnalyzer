@@ -21,7 +21,6 @@ namespace CIAnalyzer
         public static decimal Divide(int num1, int num2)
         {
             return num1 / num2;
-
         }
     }
 }
